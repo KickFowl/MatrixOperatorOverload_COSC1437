@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MatrixOperatorOverload_COSC1437/MatrixOperatorOverload_COSC1437.vcxproj" />
+</Solution>
